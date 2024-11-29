@@ -13,3 +13,5 @@ class Peak(Base):
     latitude = Column(Float, nullable  = False)
     longitude = Column(Float,  nullable  = False)
     elevation = Column(Float,  nullable  = False)
+
+    
